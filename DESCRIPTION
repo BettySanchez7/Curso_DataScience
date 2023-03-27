@@ -1,6 +1,7 @@
 Package: TEST
 Title: TEST
 Version: 1.1.0
-Authors@R:TEST
+Authors@R: person("TEST", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: TEST
 License: MIT + file LICENSE
