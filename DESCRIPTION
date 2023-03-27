@@ -1,0 +1,7 @@
+Package: 
+Title: TEST
+Version: 1.1.0
+Authors@R:
+Description: TEST
+Imports:
+License: MIT + file LICENSE
