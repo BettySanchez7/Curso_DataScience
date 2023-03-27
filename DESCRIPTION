@@ -3,5 +3,4 @@ Title: TEST
 Version: 1.1.0
 Authors@R:TEST
 Description: TEST
-Imports:TEST
 License: MIT + file LICENSE
